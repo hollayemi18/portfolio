@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Online store"
               description="An online store that help small store scale up and promote their buisness giving them the function of displaying goods and alos stat about how the items are manage, with a feature of payment gateway"
-              demoLink="https://jsutshup.com/"
+              demoLink="https://justshup.com/"
             />
           </Col>
 
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Login Auth"
               description="A login created that uses cookies and token ,served with tailwind and html , cooked with django.And alos uses google authentication to sign in and sign up"
-              demoLink="https://jsutshup.com/login/"
+              demoLink="https://justshup.com/login/"
             />
           </Col>
         </Row>
