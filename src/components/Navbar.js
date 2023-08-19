@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-//mport logo from "../Assets/ease.png";
+import logo from "../Assets/port1.png";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
@@ -81,6 +81,7 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
+
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/hollayemi18"
