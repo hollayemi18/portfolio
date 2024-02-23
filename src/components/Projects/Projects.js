@@ -27,7 +27,7 @@ function Projects() {
               title="Ease"
               description="A professional fashion webapp, that allows user to create dashboard, to be able order online sewing and also manage their measurement and wallet "
               ghLink="https://github.com/hollayemi/tailor"
-              demoLink="https://tailor-3e4r.onrender.com//"
+              demoLink="https://easefront.onrender.com/"
             />
           </Col>
 
